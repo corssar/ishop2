@@ -15,7 +15,7 @@ class JConfig {
 	public $host = 'eu-cdbr-azure-west-b.cloudapp.net';
 	public $user = 'b956b4dcd2c027';
 	public $password = '4b784d57';
-	public $db = 'ishop2AaT0e1nBtw';
+	public $db = 'ishop2aat0e1nbtw';
 	public $dbprefix = 'goj6z_';
 	public $live_site = '';
 	public $secret = 'tstrDakYQTV3ooEm';
