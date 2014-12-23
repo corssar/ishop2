@@ -1,0 +1,1 @@
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"output";s:0:"";s:6:"result";s:159:"<option   value="1">Мобільні телефони</option><option   value="3">Комп'ютери</option><option   value="2">Телевізори</option>";}
