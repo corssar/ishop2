@@ -12,10 +12,10 @@ class JConfig {
 	public $debug = '0';
 	public $debug_lang = '0';
 	public $dbtype = 'mysql';
-	public $host = 'localhost';
-	public $user = 'ishopAdmin';
-	public $password = 'kitsune';
-	public $db = 'ishop';
+	public $host = 'https://vk.com/away.php?utf=1&to=http%3A%2F%2Feu-cdbr-azure-west-b.cloudapp.net';
+	public $user = 'b956b4dcd2c027';
+	public $password = '4b784d57';
+	public $db = 'ishop2AaT0e1nBtw';
 	public $dbprefix = 'goj6z_';
 	public $live_site = '';
 	public $secret = 'tstrDakYQTV3ooEm';
